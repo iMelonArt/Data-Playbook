@@ -29,29 +29,29 @@ What data formats and standards do you use in your data science projects? Let's 
 |TSV (tab-separated values) | A simple, text-based format and separated by delimiter. |
 |Excel (XLS/XLSX)| A spreadsheet format used by Microsoft Excel, which can contain multiple sheets with rows and columns, as well as formatting, formulas, and charts. |
 
+| Columnar Formats | Notes |
+| --- | --- |
+|Parquet | A columnar storage file format optimized for use with big data processing frameworks like Apache Hadoop and Apache Spark. It allows for efficient data compression and encoding, enabling faster query performance. |
+|ORC (Optimized Row Columnar) | Another columnar storage format similar to Parquet, primarily used within the Hadoop ecosystem to improve the performance of reading and writing large datasets. |
+
+| Hierarchical Formats | Notes |
+| --- | --- |
+|JSON (JavaScript Object Notation) | A lightweight, text-based format for representing structured data based on key-value pairs. It's widely used in web applications for data interchange between a server and a client.|
+|XML (eXtensible Markup Language) | A flexible, text-based format that uses tags to define objects and their attributes. It's used for both data storage and transmission, especially in web services and configuration files. |
+
+| Binary Formats | Notes |
+| --- | --- |
+|Avro| A binary format used for data serialization in Apache Hadoop. It supports schema evolution and is designed to be compact and efficient for both storage and transmission.|
+|Protobuf (Protocol Buffers)| A language-neutral, platform-neutral binary format developed by Google for serializing structured data. It's used for communication protocols, data storage, and more.|
+
+| Specialized Formats | Notes |
+| --- | --- |
+|HDF5 (Hierarchical Data Format version 5)| A binary format designed to store large amounts of data, supporting complex data relationships and metadata. It's commonly used in scientific computing.|
+|Feather| A binary columnar data format optimized for use with Python and R, enabling fast read and write performance for large datasets.|
 
 
-Columnar Formats:
-
-Parquet: A columnar storage file format optimized for use with big data processing frameworks like Apache Hadoop and Apache Spark. It allows for efficient data compression and encoding, enabling faster query performance.
-ORC (Optimized Row Columnar): Another columnar storage format similar to Parquet, primarily used within the Hadoop ecosystem to improve the performance of reading and writing large datasets.
-Hierarchical Formats:
-
-JSON (JavaScript Object Notation): A lightweight, text-based format for representing structured data based on key-value pairs. It's widely used in web applications for data interchange between a server and a client.
-XML (eXtensible Markup Language): A flexible, text-based format that uses tags to define objects and their attributes. It's used for both data storage and transmission, especially in web services and configuration files.
-Binary Formats:
-
-Avro: A binary format used for data serialization in Apache Hadoop. It supports schema evolution and is designed to be compact and efficient for both storage and transmission.
-Protobuf (Protocol Buffers): A language-neutral, platform-neutral binary format developed by Google for serializing structured data. It's used for communication protocols, data storage, and more.
-Specialized Formats:
-
-HDF5 (Hierarchical Data Format version 5): A binary format designed to store large amounts of data, supporting complex data relationships and metadata. It's commonly used in scientific computing.
-Feather: A binary columnar data format optimized for use with Python and R, enabling fast read and write performance for large datasets.
-
-
-The Road to Interoperability
+## The Road to Interoperability
 Fundamentally, companies need to be able to have data interoperability to realize the benefits of the lakehouse.
-
 
 
 Delta Lake Universal Format (UniForm) for Iceberg compatibility
