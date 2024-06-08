@@ -49,6 +49,9 @@ What data formats and standards do you use in your data science projects? Let's 
 |HDF5 (Hierarchical Data Format version 5)| A binary format designed to store large amounts of data, supporting complex data relationships and metadata. It's commonly used in scientific computing.|
 |Feather| A binary columnar data format optimized for use with Python and R, enabling fast read and write performance for large datasets.|
 
+## A glimpse into the future
+Apache Iceberg is an open-source high-performance format for huge analytic tables. Iceberg enables the use of SQL tables for big data while making it possible for engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig to safely work with the same tables, at the same time.
+
 
 ## The Road to Interoperability
 Fundamentally, companies need to be able to have data interoperability to realize the benefits of the lakehouse.
