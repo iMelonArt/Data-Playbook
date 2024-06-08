@@ -20,12 +20,12 @@ Data Playbook contains a collection of Data & AI research or white papers for le
 alt="Startup project" width="240" height="180" border="10" /></a>
 
 
-# Project details 
+# Reference resources
 
 | Projects | Description |
 | --- | --- |
-| [MelonRagGPT - local AI](ttps://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() and video is [here]() on [CloudMelon Vis]() channel on Youtube|
- 
+| [Lakehouse tech paper](https://github.com/iMelonArt/Data-Playbook/Resources/Lakehouse_tech_paper.pdf) | A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics |
+
 
 
 
