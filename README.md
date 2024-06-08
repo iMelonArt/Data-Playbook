@@ -1,12 +1,12 @@
-<h1 align="center">AI CodePlaybook</h1>
-<p align="center"><i>A collection of AI codeplay book by cloudmelon from iMelonArt</i></p>
+<h1 align="center">Data Playbook Playbook</h1>
+<p align="center"><i>A collection of Data & AI research or white papers for learning and researching across partners</i></p>
 <div align="center">
-  <a href="https://github.com/iMelonArt/AI-CodePlaybook/stargazers"><img src="https://img.shields.io/github/stars/iMelonArt/AI-CodePlaybook" alt="Stars Badge"/></a>
-<a href="https://github.com/iMelonArt/AI-CodePlaybook/network/members"><img src="https://img.shields.io/github/forks/iMelonArt/AI-CodePlaybook" alt="Forks Badge"/></a>
-<a href="https://github.com/iMelonArt/AI-CodePlaybook/pulls"><img src="https://img.shields.io/github/issues-pr/iMelonArt/AI-CodePlaybook" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/iMelonArt/AI-CodePlaybook/issues"><img src="https://img.shields.io/github/issues/iMelonArt/AI-CodePlaybook" alt="Issues Badge"/></a>
-<a href="https://github.com/iMelonArt/AI-CodePlaybook/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/iMelonArt/AI-CodePlaybook?color=2b9348"></a>
-<a href="https://github.com/iMelonArt/AI-CodePlaybook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iMelonArt/AI-CodePlaybook?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/iMelonArt/Data-Playbook/stargazers"><img src="https://img.shields.io/github/stars/iMelonArt/Data-Playbook" alt="Stars Badge"/></a>
+<a href="https://github.com/iMelonArt/Data-Playbook/network/members"><img src="https://img.shields.io/github/forks/iMelonArt/Data-Playbook" alt="Forks Badge"/></a>
+<a href="https://github.com/iMelonArt/Data-Playbook/pulls"><img src="https://img.shields.io/github/issues-pr/iMelonArt/Data-Playbook" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/iMelonArt/Data-Playbook/issues"><img src="https://img.shields.io/github/issues/iMelonArt/Data-Playbook" alt="Issues Badge"/></a>
+<a href="https://github.com/iMelonArt/Data-Playbook/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/iMelonArt/Data-Playbook?color=2b9348"></a>
+<a href="https://github.com/iMelonArt/Data-Playbook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iMelonArt/Data-Playbook?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Loved the project? Please visit CloudMelon's <a href="https://github.com/cloudmelon">Github profile</a></i></p>
@@ -14,7 +14,7 @@
 
 # Introduction
 
-AI CodePlaybook contains a series of POVs (Proof Of Concept) for iMelonArt's AI MVP. Here's the introduction video and here's the [Youtube playlist](https://bit.ly/ai-startup-cloudmelon) for all the videos in the series.
+Data Playbook contains a collection of Data & AI research or white papers for learning and researching across partners. Here's the introduction video and here's the [Youtube playlist](https://bit.ly/ai-startup-cloudmelon) for all the videos in the series.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0FoRYTFwGec" target="_blank"><img src="http://img.youtube.com/vi/0FoRYTFwGec/0.jpg" 
 alt="Startup project" width="240" height="180" border="10" /></a>
@@ -25,7 +25,6 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 | Projects | Description |
 | --- | --- |
 | [MelonRagGPT - local AI](ttps://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() and video is [here]() on [CloudMelon Vis]() channel on Youtube|
-| [MelonRagGPT - Azure OpenAI]() | Upcoming |
  
 
 
@@ -66,5 +65,5 @@ Give a ⭐️ if this project helped you!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=iMelonArt/AI-CodePlaybook&type=Date)](https://star-history.com/#iMelonArt/AI-CodePlaybook&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=iMelonArt/Data-Playbook&type=Date)](https://star-history.com/#iMelonArt/Data-Playbook&Date)
 
