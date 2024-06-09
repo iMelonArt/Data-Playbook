@@ -85,3 +85,7 @@ According to Salesforce Research, security threats is the top 1 risk to Analytic
 
 However, lack of data hormonization, different data structure, file formats and different sources. To achieve the data hormonization is the road to achieve the unifying disparate data fields, formats, dimensions, and columns into a composite dataset.
 
+
+# TPC-DC BenchMarketing
+
+[TPC-DC benchmarkting](https://www.tpc.org/information/benchmarks5.asp).The Transaction Processing Performance Council, founded in 1988, is a non-profit organization founded to define benchmarks for transaction processing and databases, and to publish objective, verifiable TPC performance data to the industry.
