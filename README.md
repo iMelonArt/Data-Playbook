@@ -24,7 +24,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 | Projects | Description |
 | --- | --- |
-| [Lakehouse tech paper](https://github.com/iMelonArt/Data-Playbook/Resources/Lakehouse_tech_paper.pdf) | A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics |
+| [Lakehouse tech paper](https://github.com/iMelonArt/Data-Playbook/blob/main/Resources/Lakehouse_tech_paper.pdf) | A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics |
 
 
 

@@ -1,10 +1,14 @@
+# Modern Data Analytics
+
+
+
 # Data warehouse vs Data Lakehouse & Data Lake
 
-A data warehouse is a structured repository optimized for fast querying and analysis of organized data, primarily used for business intelligence.
+A **data warehouse** is a structured repository optimized for fast querying and analysis of organized data, primarily used for business intelligence.
 
-A data lake stores vast amounts of raw, unstructured data from various sources, providing flexibility for future data processing and analysis.
+A **data lake** stores vast amounts of raw, unstructured data from various sources, providing flexibility for future data processing and analysis.
 
-A data lakehouse combines elements of both data warehouses and data lakes, offering structured data management with the flexibility of handling unstructured data for comprehensive analytics.
+A **data lakehouse** combines elements of both data warehouses and data lakes, offering structured data management with the flexibility of handling unstructured data for comprehensive analytics.
 
 
 
@@ -12,17 +16,36 @@ A data lakehouse combines elements of both data warehouses and data lakes, offer
 A data warehouse is an enterprise system used for the analysis and reporting of structured and semi-structured data from multiple sources, such as point-of-sale transactions, marketing automation, customer relationship management, and more. 
 
 
+# Big Data Analytics 
 
-## Achitecture
+Hadoop
+Spark
 
-Lambda achitecture
+
+
+
+
+## Big Data Analytics Achitecture - Lambda  vs Kappa 
+
+### Lambda achitecture
+
+
+
+### Kappa architecture
+
+
+### Choosing between lambda and kappa architectures
+
 
 ## Product Showcases
 
 The following is a breif introduction for different products from major providers.
 
 ### Microsoft Fabric
+Azure Data Platform 
 
+
+Big data analytics from HDInsights to 
 
 
 
@@ -60,7 +83,21 @@ large warehouse
 
 The [Dremio Unified Lakehouse Platform](https://www.dremio.com/platform) lets you connect, govern, and analyze all of your data, both in the cloud and on-premises.
 
+## Old School warehousing
 
+### Teradata 
+
+
+### Oracle Exadata
+
+
+### IBM Netezza
+
+
+### SAP (HANA, BW)
+
+
+### Cloudera/Hortonworks
 
 
 

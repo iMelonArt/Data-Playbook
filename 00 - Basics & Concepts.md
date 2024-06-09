@@ -1,6 +1,6 @@
-# Data & AI platform Overview
+# Play 0 - Data & AI platform Overview
 
-Data has always been valuable, but simply owning it isn't enough. The key is using data to gain meaningful insights for better decision-making.
+Data has always been valuable, but simply owning it isn't enough. The key is using data to gain meaningful insights for better decision-making.So, in this play, let's take a tour at those core concepts in data analytics including traditional data ware housing, business intelligence and big data analytics. 
 
 
 ## Data-related roles and definitions
