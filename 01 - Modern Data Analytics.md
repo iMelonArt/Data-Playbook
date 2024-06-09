@@ -8,7 +8,7 @@ A **data warehouse** is a structured repository optimized for fast querying and 
 
 A **data lake** stores vast amounts of raw, unstructured data from various sources, providing flexibility for future data processing and analysis.
 
-A **data lakehouse** combines elements of both data warehouses and data lakes, offering structured data management with the flexibility of handling unstructured data for comprehensive analytics.
+A **data lakehouse** combines elements of both data warehouses and data lakes, offering structured data management with the flexibility of handling unstructured data for comprehensive analytics. For instance, a lakehouse such as Microsoft synapse () is a collection of files, folders, and tables that represent a database over a data lake used by the Apache Spark engine and SQL engine for big data processing.
 
 
 
@@ -48,6 +48,7 @@ Azure Data Platform
 Big data analytics from HDInsights to 
 
 
+Microsoft Fabric is an end-to-end analytics and data architecture platform designed for enterprises that require a unified solution,  for storing, managing, and analyzing structured and unstructured data in a single location. It encompasses data movement, processing, ingestion, transformation, real-time event routing, and report building. It offers a comprehensive suite of services including Data Engineering, Data Factory, Data Science, Real-Time Analytics, Data Warehouse, and Databases.
 
 
 ### Google Big Query
@@ -98,6 +99,11 @@ The [Dremio Unified Lakehouse Platform](https://www.dremio.com/platform) lets yo
 
 
 ### Cloudera/Hortonworks
+
+
+### Apache Hive
+
+The Apache Hive is a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale and facilitates reading, writing, and managing petabytes of data residing in distributed storage using SQL.
 
 
 

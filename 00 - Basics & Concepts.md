@@ -56,6 +56,7 @@ Apache Iceberg is an open-source high-performance format for huge analytic table
 ## The Road to Interoperability
 Fundamentally, companies need to be able to have data interoperability to realize the benefits of the lakehouse.
 
+Interoperability refers to the standards, protocols, technologies, and mechanisms that allow data to flow between diverse systems with minimal human intervention.
 
 Delta Lake Universal Format (UniForm) for Iceberg compatibility
 
@@ -63,7 +64,7 @@ Delta Lake Universal Format (UniForm) for Iceberg compatibility
 ## 3Vs - Big Data
 
 
-
+## ACID
 
 ## Top Data Challenges
 
