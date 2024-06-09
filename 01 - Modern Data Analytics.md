@@ -114,20 +114,20 @@ large warehouse
 Describe their computing as T-Shirt sizes, credit usage per hour, X-Small, Small, Medium, Large and all the way to 5X Large and 6X-Large.
 
 
-### Dremino
+### Dremio
 
 The [Dremio Unified Lakehouse Platform](https://www.dremio.com/platform) lets you connect, govern, and analyze all of your data, both in the cloud and on-premises.
 
 ## Old School warehousing
 
 ### Teradata 
-
+[Teradata](https://www.teradata.com/) is the most popular type of Rational Database Management System. It is a processing system that is widely used for developing large-scale data warehouse applications. Teradata will develop large-scale data warehouse applications with the help of Parallelism.
 
 ### Oracle Exadata
-
+The [Oracle Exadata Database](https://www.oracle.com/engineered-systems/exadata/) Machine is a computing platform optimized for running Oracle Databases. Exadata is a combined hardware and software platform that includes scale-out x86-64 computer and storage servers, RoCE networking, RDMA-addressable memory acceleration, NVMe flash, and specialized software
 
 ### IBM Netezza
-
+[IBM Netezza Performance Server](https://www.ibm.com/products/netezza) is a cloud-native enterprise data warehouse designed to operationalize deep analytics, business intelligence and AI/maching-learning (ML) workloads by making data unified, accessible and scalable, anywhere. With new support for open formats such as Parquet and Apache Iceberg, plus native integration with your data lake.
 
 ### SAP (HANA, BW)
 
