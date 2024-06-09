@@ -4,7 +4,7 @@
 
 # Data warehouse vs Data Lakehouse & Data Lake
 
-A **data warehouse** is a structured repository optimized for fast querying and analysis of organized data, primarily used for business intelligence.
+A **data warehouse** is a structured repository optimized for fast querying and analysis of organized data, primarily used for business intelligence. A data warehouse is an enterprise system used for the analysis and reporting of structured and semi-structured data from multiple sources, such as point-of-sale transactions, marketing automation, customer relationship management, and more. 
 
 A **data lake** stores vast amounts of raw, unstructured data from various sources, providing flexibility for future data processing and analysis.
 
@@ -12,8 +12,12 @@ A **data lakehouse** combines elements of both data warehouses and data lakes, o
 
 
 
-# Data warehouse
-A data warehouse is an enterprise system used for the analysis and reporting of structured and semi-structured data from multiple sources, such as point-of-sale transactions, marketing automation, customer relationship management, and more. 
+# One Lake
+
+OneLake is a single, unified, logical data lake for your whole organization. 
+
+
+
 
 
 # Big Data Analytics 
@@ -67,7 +71,7 @@ The maximum number of characters for a table name is 127. The maximum number of 
 
 
 ### DataBricks
-
+Databricks supports both clusters & nodes computing as well as [serverless computing](https://docs.databricks.com/en/workflows/jobs/run-serverless-jobs.html#:~:text=Serverless%20compute%20is%20supported%20with,compute%20for%20all%20job%20tasks.) for spark jobs for workflows.
 
 
 
