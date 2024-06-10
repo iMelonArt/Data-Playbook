@@ -83,7 +83,7 @@ For example, a transfer of funds from one bank account to another, even involvin
 
 According to Salesforce Research, security threats is the top 1 risk to Analytics & IT Leaders as well as the business leader. 
 
-However, lack of data hormonization, different data structure, file formats and different sources. To achieve the data hormonization is the road to achieve the unifying disparate data fields, formats, dimensions, and columns into a composite dataset.
+However, lack of data harmonization, different data structure, file formats and different sources. To achieve the data hormonization is the road to achieve the unifying disparate data fields, formats, dimensions, and columns into a composite dataset.
 
 
 # TPC-DC BenchMarketing

@@ -10,14 +10,27 @@ A **data lake** stores vast amounts of raw, unstructured data from various sourc
 
 A **data lakehouse** combines elements of both data warehouses and data lakes, offering structured data management with the flexibility of handling unstructured data for comprehensive analytics. For instance, a lakehouse such as Microsoft synapse () is a collection of files, folders, and tables that represent a database over a data lake used by the Apache Spark engine and SQL engine for big data processing.
 
-
+# Data mart
+A data mart is a structure/access pattern specific to data warehouse environments, used to retrieve client-facing data. The data mart is a subset of the data warehouse and is usually oriented to a specific business line or team.
 
 # One Lake
 
 OneLake is a single, unified, logical data lake for your whole organization. 
 
+## OLTP vs OLAP
 
+OLAP (Online Analytical Processing) is designed for complex, read-heavy analytical queries on large volumes of historical data using denormalized schemas, while OLTP (Online Transaction Processing) focuses on managing real-time transactional data with simple, write-heavy operations using normalized schemas for fast query processing and minimal data redundancy.
 
+## HTAP
+
+Before [HTAP](https://www.snowflake.com/guides/htap-hybrid-transactional-and-analytical-processing/), if an organization needed to run both OLAP and OLTP workloads, the configuration would require two separate databases, with each one optimized for the data workloads it was expected to perform. OLTP databases were needed for transactional processing, designed for executing single-record operations at scale with accuracy and speed, while OLAP databases were needed for multi-dimensional analytical queries and processing massive amounts of complex data. Making data from OLTP systems available for analysis in OLAP systems required data to be transferred from one system to the other using complex and time-consuming extract, transform, load (ETL) pipelines. 
+
+Although some organizations use an operational data store (ODS) as a way to bridge these two systems, this solution can be costly and complex to implement and fails to fully address the lag time in making transactional data available for analytical queries. ODS is more of a stop-gap measure that introduces an additional system that needs to be managed. HTAP was initially developed to support both OLAP and OLTP without creating additional layers of complexity.
+
+BENEFITS OF HTAP
+Data Cloud for Dummies
+Cloud Data Lake for Dummies
+Unifying transactional and analytical data unlocks many new opportunities to extract value from data stores. Although running parallel OLTP and OLAP systems is still common practice for many organizations, the advantages of uniting these two systems has made HTAP an increasingly popular choice. 
 
 # Big Data Analytics 
 
@@ -35,10 +48,10 @@ Spark
 
 
 ### Kappa architecture
-
+The Kappa Architecture is considered a simpler alternative to the Lambda Architecture as it uses the same technology stack to handle both real-time stream processing and historical batch processing. 
 
 ### Choosing between lambda and kappa architectures
-
+Both architectures handle real-time and historical analytics in a single environment. However, one major benefit of the Kappa Architecture over the Lambda Architecture is that it enables you to build your streaming and batch processing system on a single technology. There is no separate technology to handle the batch processing, as is suggested by the Lambda Architecture.
 
 ## Product Showcases
 
